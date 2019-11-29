@@ -1,0 +1,8 @@
+<TestData>
+   <UserInfo>
+       <username>testuser</username>
+       <password>testpassword</password>
+       <email>test@test.com</email>
+       <address>testaddress</address>
+   </UserInfo>
+</TestData>

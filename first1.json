@@ -1,0 +1,17 @@
+{
+  "dataSet": [
+    {
+      "testCase": "Verify error message on wrong userName",
+      "username": "test",
+      "password": "password",
+      "rememberMe": false,
+	  "address":{
+			"street":"El Camino Real",
+			"city":"San Jose",
+			"zipcode":95014
+		},
+	  "colors" : ["red","black"]
+
+    }
+  ]
+}
